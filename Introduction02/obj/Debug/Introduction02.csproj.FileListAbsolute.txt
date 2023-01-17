@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\IntroductiontoCSharp\Introduction02\obj\Debug\Introduction02.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\IntroductiontoCSharp\Introduction02\obj\Debug\Introduction02.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\IntroductiontoCSharp\Introduction02\obj\Debug\Introduction02.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IntroductiontoCSharp\Introduction02\bin\Debug\Introduction02.exe.config
+C:\Users\User\source\repos\IntroductiontoCSharp\Introduction02\bin\Debug\Introduction02.exe
+C:\Users\User\source\repos\IntroductiontoCSharp\Introduction02\bin\Debug\Introduction02.pdb
+C:\Users\User\source\repos\IntroductiontoCSharp\Introduction02\obj\Debug\Introduction02.exe
+C:\Users\User\source\repos\IntroductiontoCSharp\Introduction02\obj\Debug\Introduction02.pdb

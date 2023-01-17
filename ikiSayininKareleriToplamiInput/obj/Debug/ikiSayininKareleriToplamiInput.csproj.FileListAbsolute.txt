@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\IntroductiontoCSharp\ikiSayininKareleriToplamiInput\obj\Debug\ikiSayininKareleriToplamiInput.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\IntroductiontoCSharp\ikiSayininKareleriToplamiInput\obj\Debug\ikiSayininKareleriToplamiInput.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\IntroductiontoCSharp\ikiSayininKareleriToplamiInput\obj\Debug\ikiSayininKareleriToplamiInput.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IntroductiontoCSharp\ikiSayininKareleriToplamiInput\bin\Debug\ikiSayininKareleriToplamiInput.exe.config
+C:\Users\User\source\repos\IntroductiontoCSharp\ikiSayininKareleriToplamiInput\bin\Debug\ikiSayininKareleriToplamiInput.exe
+C:\Users\User\source\repos\IntroductiontoCSharp\ikiSayininKareleriToplamiInput\bin\Debug\ikiSayininKareleriToplamiInput.pdb
+C:\Users\User\source\repos\IntroductiontoCSharp\ikiSayininKareleriToplamiInput\obj\Debug\ikiSayininKareleriToplamiInput.exe
+C:\Users\User\source\repos\IntroductiontoCSharp\ikiSayininKareleriToplamiInput\obj\Debug\ikiSayininKareleriToplamiInput.pdb

@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\IntroductiontoCSharp\ÜçSayıToplama\obj\Debug\ÜçSayıToplama.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\IntroductiontoCSharp\ÜçSayıToplama\obj\Debug\ÜçSayıToplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\IntroductiontoCSharp\ÜçSayıToplama\obj\Debug\ÜçSayıToplama.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IntroductiontoCSharp\ÜçSayıToplama\bin\Debug\ÜçSayıToplama.exe.config
+C:\Users\User\source\repos\IntroductiontoCSharp\ÜçSayıToplama\bin\Debug\ÜçSayıToplama.exe
+C:\Users\User\source\repos\IntroductiontoCSharp\ÜçSayıToplama\bin\Debug\ÜçSayıToplama.pdb
+C:\Users\User\source\repos\IntroductiontoCSharp\ÜçSayıToplama\obj\Debug\ÜçSayıToplama.exe
+C:\Users\User\source\repos\IntroductiontoCSharp\ÜçSayıToplama\obj\Debug\ÜçSayıToplama.pdb

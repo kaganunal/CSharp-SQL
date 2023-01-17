@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\IntroductiontoCSharp\kdvHesaplama\obj\Debug\kdvHesaplama.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\IntroductiontoCSharp\kdvHesaplama\obj\Debug\kdvHesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\IntroductiontoCSharp\kdvHesaplama\obj\Debug\kdvHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IntroductiontoCSharp\kdvHesaplama\bin\Debug\kdvHesaplama.exe.config
+C:\Users\User\source\repos\IntroductiontoCSharp\kdvHesaplama\bin\Debug\kdvHesaplama.exe
+C:\Users\User\source\repos\IntroductiontoCSharp\kdvHesaplama\bin\Debug\kdvHesaplama.pdb
+C:\Users\User\source\repos\IntroductiontoCSharp\kdvHesaplama\obj\Debug\kdvHesaplama.exe
+C:\Users\User\source\repos\IntroductiontoCSharp\kdvHesaplama\obj\Debug\kdvHesaplama.pdb

@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\IntroductiontoCSharp\tlDolar\obj\Debug\tlDolar.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\IntroductiontoCSharp\tlDolar\obj\Debug\tlDolar.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\IntroductiontoCSharp\tlDolar\obj\Debug\tlDolar.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IntroductiontoCSharp\tlDolar\bin\Debug\tlDolar.exe.config
+C:\Users\User\source\repos\IntroductiontoCSharp\tlDolar\bin\Debug\tlDolar.exe
+C:\Users\User\source\repos\IntroductiontoCSharp\tlDolar\bin\Debug\tlDolar.pdb
+C:\Users\User\source\repos\IntroductiontoCSharp\tlDolar\obj\Debug\tlDolar.exe
+C:\Users\User\source\repos\IntroductiontoCSharp\tlDolar\obj\Debug\tlDolar.pdb
