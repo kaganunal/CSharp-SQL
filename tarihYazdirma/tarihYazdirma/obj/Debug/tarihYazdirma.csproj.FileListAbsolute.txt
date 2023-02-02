@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\tarihYazdirma\tarihYazdirma\bin\Debug\tarihYazdirma.exe.config
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\tarihYazdirma\tarihYazdirma\bin\Debug\tarihYazdirma.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\tarihYazdirma\tarihYazdirma\bin\Debug\tarihYazdirma.pdb
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\tarihYazdirma\tarihYazdirma\obj\Debug\tarihYazdirma.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\tarihYazdirma\tarihYazdirma\obj\Debug\tarihYazdirma.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\tarihYazdirma\tarihYazdirma\obj\Debug\tarihYazdirma.Form1.resources
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\tarihYazdirma\tarihYazdirma\obj\Debug\tarihYazdirma.Properties.Resources.resources
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\tarihYazdirma\tarihYazdirma\obj\Debug\tarihYazdirma.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\tarihYazdirma\tarihYazdirma\obj\Debug\tarihYazdirma.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\tarihYazdirma\tarihYazdirma\obj\Debug\tarihYazdirma.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\tarihYazdirma\tarihYazdirma\obj\Debug\tarihYazdirma.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\zamHesaplamaForm\zamHesaplamaForm\bin\Debug\zamHesaplamaForm.exe.config
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\zamHesaplamaForm\zamHesaplamaForm\bin\Debug\zamHesaplamaForm.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\zamHesaplamaForm\zamHesaplamaForm\bin\Debug\zamHesaplamaForm.pdb
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\zamHesaplamaForm\zamHesaplamaForm\obj\Debug\zamHesaplamaForm.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\zamHesaplamaForm\zamHesaplamaForm\obj\Debug\zamHesaplamaForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\zamHesaplamaForm\zamHesaplamaForm\obj\Debug\zamHesaplamaForm.Form1.resources
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\zamHesaplamaForm\zamHesaplamaForm\obj\Debug\zamHesaplamaForm.Properties.Resources.resources
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\zamHesaplamaForm\zamHesaplamaForm\obj\Debug\zamHesaplamaForm.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\zamHesaplamaForm\zamHesaplamaForm\obj\Debug\zamHesaplamaForm.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\zamHesaplamaForm\zamHesaplamaForm\obj\Debug\zamHesaplamaForm.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\zamHesaplamaForm\zamHesaplamaForm\obj\Debug\zamHesaplamaForm.pdb

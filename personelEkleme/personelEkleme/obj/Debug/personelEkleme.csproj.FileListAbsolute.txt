@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\personelEkleme\personelEkleme\bin\Debug\personelEkleme.exe.config
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\personelEkleme\personelEkleme\bin\Debug\personelEkleme.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\personelEkleme\personelEkleme\bin\Debug\personelEkleme.pdb
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\personelEkleme\personelEkleme\obj\Debug\personelEkleme.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\personelEkleme\personelEkleme\obj\Debug\personelEkleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\personelEkleme\personelEkleme\obj\Debug\personelEkleme.Form1.resources
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\personelEkleme\personelEkleme\obj\Debug\personelEkleme.Properties.Resources.resources
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\personelEkleme\personelEkleme\obj\Debug\personelEkleme.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\personelEkleme\personelEkleme\obj\Debug\personelEkleme.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\personelEkleme\personelEkleme\obj\Debug\personelEkleme.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\personelEkleme\personelEkleme\obj\Debug\personelEkleme.pdb
