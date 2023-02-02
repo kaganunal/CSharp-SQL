@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Bilge Adam\Ödevler\metotOdevi(KaanHoca)\metotOdevi(KaanHoca)\bin\Debug\metotOdevi(KaanHoca).exe.config
+C:\Users\User\Desktop\Bilge Adam\Ödevler\metotOdevi(KaanHoca)\metotOdevi(KaanHoca)\bin\Debug\metotOdevi(KaanHoca).exe
+C:\Users\User\Desktop\Bilge Adam\Ödevler\metotOdevi(KaanHoca)\metotOdevi(KaanHoca)\bin\Debug\metotOdevi(KaanHoca).pdb
+C:\Users\User\Desktop\Bilge Adam\Ödevler\metotOdevi(KaanHoca)\metotOdevi(KaanHoca)\obj\Debug\metotOdevi(KaanHoca).csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Bilge Adam\Ödevler\metotOdevi(KaanHoca)\metotOdevi(KaanHoca)\obj\Debug\metotOdevi(KaanHoca).csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Bilge Adam\Ödevler\metotOdevi(KaanHoca)\metotOdevi(KaanHoca)\obj\Debug\metotOdevi(KaanHoca).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Bilge Adam\Ödevler\metotOdevi(KaanHoca)\metotOdevi(KaanHoca)\obj\Debug\metotOdevi(KaanHoca).exe
+C:\Users\User\Desktop\Bilge Adam\Ödevler\metotOdevi(KaanHoca)\metotOdevi(KaanHoca)\obj\Debug\metotOdevi(KaanHoca).pdb

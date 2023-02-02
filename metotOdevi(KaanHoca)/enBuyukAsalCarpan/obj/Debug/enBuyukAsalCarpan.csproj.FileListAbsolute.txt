@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Bilge Adam\Ödevler\metotOdevi(KaanHoca)\enBuyukAsalCarpan\bin\Debug\enBuyukAsalCarpan.exe.config
+C:\Users\User\Desktop\Bilge Adam\Ödevler\metotOdevi(KaanHoca)\enBuyukAsalCarpan\bin\Debug\enBuyukAsalCarpan.exe
+C:\Users\User\Desktop\Bilge Adam\Ödevler\metotOdevi(KaanHoca)\enBuyukAsalCarpan\bin\Debug\enBuyukAsalCarpan.pdb
+C:\Users\User\Desktop\Bilge Adam\Ödevler\metotOdevi(KaanHoca)\enBuyukAsalCarpan\obj\Debug\enBuyukAsalCarpan.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Bilge Adam\Ödevler\metotOdevi(KaanHoca)\enBuyukAsalCarpan\obj\Debug\enBuyukAsalCarpan.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Bilge Adam\Ödevler\metotOdevi(KaanHoca)\enBuyukAsalCarpan\obj\Debug\enBuyukAsalCarpan.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Bilge Adam\Ödevler\metotOdevi(KaanHoca)\enBuyukAsalCarpan\obj\Debug\enBuyukAsalCarpan.exe
+C:\Users\User\Desktop\Bilge Adam\Ödevler\metotOdevi(KaanHoca)\enBuyukAsalCarpan\obj\Debug\enBuyukAsalCarpan.pdb

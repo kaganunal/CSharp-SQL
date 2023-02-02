@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Bilge Adam\Ödevler\metotOdevi(KaanHoca)\fibonacciEven\bin\Debug\fibonacciEven.exe.config
+C:\Users\User\Desktop\Bilge Adam\Ödevler\metotOdevi(KaanHoca)\fibonacciEven\bin\Debug\fibonacciEven.exe
+C:\Users\User\Desktop\Bilge Adam\Ödevler\metotOdevi(KaanHoca)\fibonacciEven\bin\Debug\fibonacciEven.pdb
+C:\Users\User\Desktop\Bilge Adam\Ödevler\metotOdevi(KaanHoca)\fibonacciEven\obj\Debug\fibonacciEven.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Bilge Adam\Ödevler\metotOdevi(KaanHoca)\fibonacciEven\obj\Debug\fibonacciEven.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Bilge Adam\Ödevler\metotOdevi(KaanHoca)\fibonacciEven\obj\Debug\fibonacciEven.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Bilge Adam\Ödevler\metotOdevi(KaanHoca)\fibonacciEven\obj\Debug\fibonacciEven.exe
+C:\Users\User\Desktop\Bilge Adam\Ödevler\metotOdevi(KaanHoca)\fibonacciEven\obj\Debug\fibonacciEven.pdb
