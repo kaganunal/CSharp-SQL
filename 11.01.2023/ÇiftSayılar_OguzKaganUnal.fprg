@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="User"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-01-11 12:30:22 &#214;S"/>
+        <attribute name="created" value="VXNlcjtLQUdBTlVOQUw7MjAyMy0wMS0xMTsxMToyODoxOSDDlsOWOzI2MjA="/>
+        <attribute name="edited" value="VXNlcjtLQUdBTlVOQUw7MjAyMy0wMS0xMTsxMjozMDoyMiDDllM7NTsyNTg5"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="i, sayi1, sayi2, temp, toplam" type="Integer" array="False" size=""/>
+            <output expression="&quot;L&#252;tfen birinci de&#287;eri giriniz: &quot;" newline="True"/>
+            <input variable="sayi1"/>
+            <output expression="&quot;L&#252;tfen ikinci de&#287;eri giriniz: &quot;" newline="True"/>
+            <input variable="sayi2"/>
+            <if expression="sayi1 &lt; sayi2">
+                <then/>
+                <else>
+                    <assign variable="temp" expression="sayi1"/>
+                    <assign variable="sayi1" expression="sayi2"/>
+                    <assign variable="sayi2" expression="temp"/>
+                </else>
+            </if>
+            <if expression="sayi1 %2 = 0">
+                <then>
+                    <output expression="sayi1 &amp; &quot;ve&quot; &amp; sayi2 &amp; &quot;aras&#305; &#231;ift say&#305;lar&quot;" newline="True"/>
+                </then>
+                <else>
+                    <assign variable="sayi1" expression="sayi1 +1"/>
+                    <output expression="sayi1+1 &amp; &quot;ve&quot; &amp; sayi2 &amp; &quot;aras&#305; &#231;ift say&#305;lar&quot;" newline="True"/>
+                </else>
+            </if>
+            <for variable="i" start="sayi1" end="sayi2" direction="inc" step="2">
+                <assign variable="toplam" expression="i"/>
+                <output expression="toplam" newline="True"/>
+            </for>
+        </body>
+    </function>
+</flowgorithm>

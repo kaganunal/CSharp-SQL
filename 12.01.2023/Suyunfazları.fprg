@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="User"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-01-12 03:48:44 &#214;S"/>
+        <attribute name="created" value="VXNlcjtLQUdBTlVOQUw7MjAyMy0wMS0xMjswMzozNzo1MCDDllM7MjQ4Ng=="/>
+        <attribute name="edited" value="VXNlcjtLQUdBTlVOQUw7MjAyMy0wMS0xMjswMzo0ODo0NCDDllM7MTsyNTk5"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="C" type="Integer" array="False" size=""/>
+            <output expression="&quot;Maddenin s&#305;cakl&#305;&#287;&#305;n&#305; giriniz: &quot;" newline="True"/>
+            <input variable="C"/>
+            <if expression="C &lt;= 0">
+                <then>
+                    <output expression="&quot;Madde kat&#305; haldedir&quot;" newline="True"/>
+                </then>
+                <else>
+                    <if expression="0 &lt; C &amp;&amp; C &lt; 100">
+                        <then>
+                            <output expression="&quot;Madde s&#305;v&#305; haldedir&quot;" newline="True"/>
+                        </then>
+                        <else>
+                            <output expression="&quot;Madde gaz haldedir.&quot;" newline="True"/>
+                        </else>
+                    </if>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

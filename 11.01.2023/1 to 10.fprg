@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="User"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-01-11 10:33:55 &#214;&#214;"/>
+        <attribute name="created" value="VXNlcjtLQUdBTlVOQUw7MjAyMy0wMS0xMTsxMDoyNjoyMyDDlsOWOzI2MTI="/>
+        <attribute name="edited" value="VXNlcjtLQUdBTlVOQUw7MjAyMy0wMS0xMTsxMDozMzo1NSDDlsOWOzE7MjcyMw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sayi" type="Integer" array="False" size=""/>
+            <assign variable="sayi" expression="0"/>
+            <assign variable="toplam" expression="0"/>
+            <while expression="sayi &lt; 11">
+                <assign variable="sayi" expression="sayi + 1"/>
+                <assign variable="sayi" expression="sayi + 1"/>
+            </while>
+            <output expression="&quot;1-10 ars&#305;ndaki say&#305;lar&#305;n toplam&#305;&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

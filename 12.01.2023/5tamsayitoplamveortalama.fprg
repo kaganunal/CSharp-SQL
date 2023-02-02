@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="User"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-01-12 03:13:50 &#214;S"/>
+        <attribute name="created" value="VXNlcjtLQUdBTlVOQUw7MjAyMy0wMS0xMjswMjo1MjowNSDDllM7MjQ4Mg=="/>
+        <attribute name="edited" value="VXNlcjtLQUdBTlVOQUw7MjAyMy0wMS0xMjswMzoxMzo1MCDDllM7MTsyNTg4"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sayi1, sayi2, sayi3, sayi4, sayi5, toplam" type="Integer" array="False" size=""/>
+            <declare name="ortalama" type="Real" array="False" size=""/>
+            <output expression="&quot;L&#252;tfen 1. sayiyi giriniz: &quot;" newline="True"/>
+            <input variable="sayi1"/>
+            <output expression="&quot;L&#252;tfen 2. sayiyi giriniz: &quot;" newline="True"/>
+            <input variable="sayi2"/>
+            <output expression="&quot;Girdi&#287;iniz iki say&#305;n&#305;n toplam&#305;: &quot; &amp; sayi1 + sayi2" newline="True"/>
+            <output expression="" newline="True"/>
+            <output expression="&quot;L&#252;tfen 3. sayiyi giriniz: &quot;" newline="True"/>
+            <input variable="sayi3"/>
+            <output expression="&quot;Girdi&#287;iniz &#252;&#231; say&#305;n&#305;n toplam&#305;: &quot; &amp; sayi1 + sayi2 + sayi3" newline="True"/>
+            <output expression="&quot;L&#252;tfen 4. sayiyi giriniz: &quot;" newline="True"/>
+            <input variable="sayi4"/>
+            <output expression="&quot;Girdi&#287;iniz d&#246;rt say&#305;n&#305;n toplam&#305;: &quot; &amp;sayi1 + sayi2 + sayi3 + sayi4" newline="True"/>
+            <output expression="&quot;L&#252;tfen 5. sayiyi giriniz: &quot;" newline="True"/>
+            <input variable="sayi5"/>
+            <output expression="&quot;Girdi&#287;iniz be&#351; say&#305;n&#305;n toplam&#305;: &quot; &amp; sayi1 + sayi2 + sayi3 + sayi4 + sayi5" newline="True"/>
+            <assign variable="ortalama" expression="(sayi1 + sayi2 + sayi3 + sayi4 + sayi5) / 5"/>
+            <output expression="&quot;Girdi&#287;iniz be&#351; say&#305;n&#305;n ortalamas&#305;: &quot; &amp; ortalama" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
