@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\merhabaMessageBox\merhabaMessageBox\bin\Debug\merhabaMessageBox.exe.config
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\merhabaMessageBox\merhabaMessageBox\bin\Debug\merhabaMessageBox.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\merhabaMessageBox\merhabaMessageBox\bin\Debug\merhabaMessageBox.pdb
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\merhabaMessageBox\merhabaMessageBox\obj\Debug\merhabaMessageBox.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\merhabaMessageBox\merhabaMessageBox\obj\Debug\merhabaMessageBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\merhabaMessageBox\merhabaMessageBox\obj\Debug\merhabaMessageBox.Form1.resources
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\merhabaMessageBox\merhabaMessageBox\obj\Debug\merhabaMessageBox.Properties.Resources.resources
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\merhabaMessageBox\merhabaMessageBox\obj\Debug\merhabaMessageBox.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\merhabaMessageBox\merhabaMessageBox\obj\Debug\merhabaMessageBox.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\merhabaMessageBox\merhabaMessageBox\obj\Debug\merhabaMessageBox.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\merhabaMessageBox\merhabaMessageBox\obj\Debug\merhabaMessageBox.pdb

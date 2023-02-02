@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\merhabaMessageBox\mailYazdirma\bin\Debug\mailYazdirma.exe.config
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\merhabaMessageBox\mailYazdirma\bin\Debug\mailYazdirma.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\merhabaMessageBox\mailYazdirma\bin\Debug\mailYazdirma.pdb
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\merhabaMessageBox\mailYazdirma\obj\Debug\mailYazdirma.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\merhabaMessageBox\mailYazdirma\obj\Debug\mailYazdirma.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\merhabaMessageBox\mailYazdirma\obj\Debug\mailYazdirma.Form1.resources
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\merhabaMessageBox\mailYazdirma\obj\Debug\mailYazdirma.Properties.Resources.resources
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\merhabaMessageBox\mailYazdirma\obj\Debug\mailYazdirma.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\merhabaMessageBox\mailYazdirma\obj\Debug\mailYazdirma.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\merhabaMessageBox\mailYazdirma\obj\Debug\mailYazdirma.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\merhabaMessageBox\mailYazdirma\obj\Debug\mailYazdirma.pdb

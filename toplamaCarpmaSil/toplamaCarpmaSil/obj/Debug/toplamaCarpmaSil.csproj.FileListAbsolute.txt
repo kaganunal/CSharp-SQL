@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\toplamaCarpmaSil\toplamaCarpmaSil\bin\Debug\toplamaCarpmaSil.exe.config
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\toplamaCarpmaSil\toplamaCarpmaSil\bin\Debug\toplamaCarpmaSil.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\toplamaCarpmaSil\toplamaCarpmaSil\bin\Debug\toplamaCarpmaSil.pdb
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\toplamaCarpmaSil\toplamaCarpmaSil\obj\Debug\toplamaCarpmaSil.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\toplamaCarpmaSil\toplamaCarpmaSil\obj\Debug\toplamaCarpmaSil.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\toplamaCarpmaSil\toplamaCarpmaSil\obj\Debug\toplamaCarpmaSil.Form1.resources
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\toplamaCarpmaSil\toplamaCarpmaSil\obj\Debug\toplamaCarpmaSil.Properties.Resources.resources
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\toplamaCarpmaSil\toplamaCarpmaSil\obj\Debug\toplamaCarpmaSil.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\toplamaCarpmaSil\toplamaCarpmaSil\obj\Debug\toplamaCarpmaSil.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\toplamaCarpmaSil\toplamaCarpmaSil\obj\Debug\toplamaCarpmaSil.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\toplamaCarpmaSil\toplamaCarpmaSil\obj\Debug\toplamaCarpmaSil.pdb
