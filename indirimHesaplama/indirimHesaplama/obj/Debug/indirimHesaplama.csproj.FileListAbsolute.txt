@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\indirimHesaplama\indirimHesaplama\bin\Debug\indirimHesaplama.exe.config
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\indirimHesaplama\indirimHesaplama\bin\Debug\indirimHesaplama.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\indirimHesaplama\indirimHesaplama\bin\Debug\indirimHesaplama.pdb
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\indirimHesaplama\indirimHesaplama\obj\Debug\indirimHesaplama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\indirimHesaplama\indirimHesaplama\obj\Debug\indirimHesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\indirimHesaplama\indirimHesaplama\obj\Debug\indirimHesaplama.Form1.resources
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\indirimHesaplama\indirimHesaplama\obj\Debug\indirimHesaplama.Properties.Resources.resources
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\indirimHesaplama\indirimHesaplama\obj\Debug\indirimHesaplama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\indirimHesaplama\indirimHesaplama\obj\Debug\indirimHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\indirimHesaplama\indirimHesaplama\obj\Debug\indirimHesaplama.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\indirimHesaplama\indirimHesaplama\obj\Debug\indirimHesaplama.pdb

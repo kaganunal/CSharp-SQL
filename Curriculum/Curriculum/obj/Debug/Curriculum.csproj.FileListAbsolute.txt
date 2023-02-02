@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\Curriculum\Curriculum\bin\Debug\Curriculum.exe.config
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\Curriculum\Curriculum\bin\Debug\Curriculum.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\Curriculum\Curriculum\bin\Debug\Curriculum.pdb
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\Curriculum\Curriculum\obj\Debug\Curriculum.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\Curriculum\Curriculum\obj\Debug\Curriculum.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\Curriculum\Curriculum\obj\Debug\Curriculum.Form1.resources
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\Curriculum\Curriculum\obj\Debug\Curriculum.Properties.Resources.resources
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\Curriculum\Curriculum\obj\Debug\Curriculum.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\Curriculum\Curriculum\obj\Debug\Curriculum.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\Curriculum\Curriculum\obj\Debug\Curriculum.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\02.02.2023\Curriculum\Curriculum\obj\Debug\Curriculum.pdb
