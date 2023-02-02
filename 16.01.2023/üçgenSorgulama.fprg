@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="User"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-01-16 03:18:18 &#214;S"/>
+        <attribute name="created" value="VXNlcjtLQUdBTlVOQUw7MjAyMy0wMS0xNjswMzowNjozOCDDllM7MjQ5Mg=="/>
+        <attribute name="edited" value="VXNlcjtLQUdBTlVOQUw7MjAyMy0wMS0xNjswMzoxODoxOCDDllM7MTsyNjAx"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="kenar1, kenar2, kenar3" type="Integer" array="False" size=""/>
+            <output expression="&quot;L&#220;tfen ilk kenar&#305; giriniz: &quot;" newline="True"/>
+            <input variable="kenar1"/>
+            <output expression="&quot;L&#252;tfen ikinci kenar&#305; giriniz: &quot;" newline="True"/>
+            <input variable="kenar2"/>
+            <output expression="&quot;L&#252;tfen &#252;&#231;&#252;nc&#252; kenar&#305; giriniz: &quot;" newline="True"/>
+            <input variable="kenar3"/>
+            <if expression="kenar1+kenar2&gt;kenar3 &amp;&amp; kenar2 + kenar3 &gt; kenar1 &amp;&amp; kenar1+kenar3 &gt;kenar2">
+                <then>
+                    <output expression="&quot;Bu bir &#252;&#231;gendir&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Bu bir &#252;&#231;gen de&#287;ildir&quot;" newline="True"/>
+                </else>
+            </if>
+            <output expression="&quot;Tekrar giri&#351; yapmak istiyorsan&#305;z 'E' tu&#351;una bas&#305;n&#305;z&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

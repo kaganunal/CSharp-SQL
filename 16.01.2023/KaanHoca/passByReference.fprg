@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="fatih.acikgoz"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-01-16 11:42:09 &#214;&#214;"/>
+        <attribute name="created" value="ZmF0aWguYWNpa2dvejtBTksyLVlaTE1PUlQtMDA7MjAyMy0wMS0xNjsxMToxMDoyNCDDlsOWOzM4ODQ="/>
+        <attribute name="edited" value="ZmF0aWguYWNpa2dvejtBTksyLVlaTE1PUlQtMDA7MjAyMy0wMS0xNjsxMTo0MjowOSDDlsOWOzE7NDAwMA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="numbers" type="Integer" array="True" size="5"/>
+            <assign variable="numbers[0]" expression="5"/>
+            <assign variable="numbers[1]" expression="7"/>
+            <assign variable="numbers[2]" expression="3"/>
+            <assign variable="numbers[3]" expression="15"/>
+            <assign variable="numbers[4]" expression="0"/>
+            <output expression="&quot;Dizinin de&#287;i&#351;meden &#246;nceki 0. indeksindeki eleman: &quot; &amp; numbers[0]" newline="True"/>
+            <call expression="degerDegistir(numbers)"/>
+            <output expression="&quot;Dizinin de&#287;i&#351;tikten sonraki 0. indeksindeki eleman: &quot; &amp; numbers[0]" newline="True"/>
+            <output expression="&quot;Say&#305;lar&#305;n toplam&#305;: &quot; &amp; sayilariTopla(numbers)" newline="True"/>
+        </body>
+    </function>
+    <function name="degerDegistir" type="None" variable="">
+        <parameters>
+            <parameter name="sayilar" type="Integer" array="True"/>
+        </parameters>
+        <body>
+            <assign variable="sayilar[0]" expression="100"/>
+        </body>
+    </function>
+    <function name="sayilariTopla" type="Integer" variable="toplam">
+        <parameters>
+            <parameter name="sayilar" type="Integer" array="True"/>
+        </parameters>
+        <body>
+            <declare name="toplam, i" type="Integer" array="False" size=""/>
+            <assign variable="toplam" expression="0"/>
+            <for variable="i" start="0" end="SIZE(sayilar) - 1" direction="inc" step="1">
+                <assign variable="toplam" expression="toplam + sayilar[i]"/>
+            </for>
+        </body>
+    </function>
+</flowgorithm>

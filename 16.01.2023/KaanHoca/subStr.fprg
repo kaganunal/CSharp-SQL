@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="fatih.acikgoz"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-01-16 12:13:25 &#214;S"/>
+        <attribute name="created" value="ZmF0aWguYWNpa2dvejtBTksyLVlaTE1PUlQtMDA7MjAyMy0wMS0xNjsxMTo0MjoxMyDDlsOWOzM4ODc="/>
+        <attribute name="edited" value="ZmF0aWguYWNpa2dvejtBTksyLVlaTE1PUlQtMDA7MjAyMy0wMS0xNjsxMjoxMzoyNSDDllM7MTszODY2"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="isim" type="String" array="False" size=""/>
+            <assign variable="isim" expression="&quot;Ahmet&quot;"/>
+            <output expression="&quot;&#304;sim de&#287;i&#351;meden &#246;nce: &quot; &amp; isim" newline="True"/>
+            <assign variable="isim" expression="substr(isim,2,5)"/>
+            <output expression="&quot;&#304;sim de&#287;i&#351;tikten sonra: &quot; &amp; isim" newline="True"/>
+        </body>
+    </function>
+    <function name="substr" type="String" variable="subText">
+        <parameters>
+            <parameter name="text" type="String" array="False"/>
+            <parameter name="from" type="Integer" array="False"/>
+            <parameter name="length" type="Integer" array="False"/>
+        </parameters>
+        <body>
+            <declare name="subText" type="String" array="False" size=""/>
+            <assign variable="subText" expression="&quot;&quot;"/>
+            <if expression="LEN(text) &gt;= (from+length)">
+                <then>
+                    <declare name="i" type="Integer" array="False" size=""/>
+                    <for variable="i" start="from" end="from + length - 1" direction="inc" step="1">
+                        <assign variable="subText" expression="subText &amp; Char(text,i)"/>
+                    </for>
+                </then>
+                <else>
+                    <assign variable="subText" expression="text"/>
+                    <output expression="&quot;L&#252;tfen ba&#351;lang&#305;&#231; indeksiyle istenen karakter say&#305;s&#305;n&#305;n toplam&#305; metinin uzunlu&#287;undan b&#252;y&#252;k olmas&#305;n!&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

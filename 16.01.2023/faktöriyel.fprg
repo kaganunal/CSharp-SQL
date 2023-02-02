@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="User"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-01-16 04:39:46 &#214;S"/>
+        <attribute name="created" value="VXNlcjtLQUdBTlVOQUw7MjAyMy0wMS0xNjswNDoyNDo1MSDDllM7MjQ4OA=="/>
+        <attribute name="edited" value="VXNlcjtLQUdBTlVOQUw7MjAyMy0wMS0xNjswNDozOTo0NiDDllM7MTsyNjA2"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sayi, sonuc, sayac" type="Real" array="False" size=""/>
+            <output expression="&quot;Fakt&#246;riyeli hesaplanacak say&#305;y&#305; giriniz: &quot;" newline="True"/>
+            <input variable="sayi"/>
+            <assign variable="sonuc" expression="1"/>
+            <for variable="sayac" start="1" end="sayi" direction="inc" step="1">
+                <assign variable="sonuc" expression="sonuc * sayac"/>
+            </for>
+            <output expression="sayi &amp; &quot;! = &quot; &amp; sonuc" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

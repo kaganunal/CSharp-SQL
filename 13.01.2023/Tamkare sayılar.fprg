@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="User"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-01-13 01:17:15 &#214;S"/>
+        <attribute name="created" value="VXNlcjtLQUdBTlVOQUw7MjAyMy0wMS0xMzsxMjozNzowMCDDllM7MjQ4Mg=="/>
+        <attribute name="edited" value="VXNlcjtLQUdBTlVOQUw7MjAyMy0wMS0xMzswMToxNzoxNSDDllM7MTsyNTky"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="i, j" type="Integer" array="False" size=""/>
+            <output expression="&quot;L&#252;tfen karek&#246;k&#252;n&#252; g&#246;rmek istedi&#287;iniz say&#305; aral&#305;&#287;&#305;n&#305; giriniz!&quot;" newline="True"/>
+            <input variable="i"/>
+            <input variable="j"/>
+            <output expression="&quot;[&quot; &amp; i &amp;&quot;, &quot; &amp; j&amp; &quot;] aral&#305;&#287;&#305;ndaki tamkare say&#305;lar&quot;" newline="True"/>
+            <for variable="i" start="i" end="j" direction="inc" step="1">
+                <if expression="INT(SQRT(i))^2 = i">
+                    <then>
+                        <output expression="i &amp; &quot; &quot;" newline="True"/>
+                    </then>
+                    <else/>
+                </if>
+            </for>
+        </body>
+    </function>
+</flowgorithm>

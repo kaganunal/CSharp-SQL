@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="User"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-01-13 05:00:08 &#214;S"/>
+        <attribute name="created" value="VXNlcjtLQUdBTlVOQUw7MjAyMy0wMS0xMzswNDo0Njo1MiDDllM7MjQ5MA=="/>
+        <attribute name="edited" value="VXNlcjtLQUdBTlVOQUw7MjAyMy0wMS0xMzswNTowMDowOCDDllM7MTsyNTkw"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sayi1, sayi2, sayi3" type="Integer" array="False" size=""/>
+            <output expression="&quot;L&#252;tfen 3 say&#305; giriniz: &quot;" newline="True"/>
+            <input variable="sayi1"/>
+            <input variable="sayi2"/>
+            <input variable="sayi3"/>
+            <if expression="sayi1 &lt; sayi2">
+                <then>
+                    <if expression="sayi2 &lt; sayi3">
+                        <then>
+                            <output expression="sayi3" newline="True"/>
+                        </then>
+                        <else>
+                            <output expression="sayi2" newline="True"/>
+                        </else>
+                    </if>
+                </then>
+                <else>
+                    <if expression="sayi1 &lt; sayi3">
+                        <then>
+                            <output expression="sayi3" newline="True"/>
+                        </then>
+                        <else>
+                            <output expression="sayi1" newline="True"/>
+                        </else>
+                    </if>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

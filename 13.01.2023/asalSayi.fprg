@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="User"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-01-13 06:03:42 &#214;S"/>
+        <attribute name="created" value="VXNlcjtLQUdBTlVOQUw7MjAyMy0wMS0xMzswNTozNDo0MyDDllM7MjQ4OA=="/>
+        <attribute name="edited" value="VXNlcjtLQUdBTlVOQUw7MjAyMy0wMS0xMzswNTo0OTo1NyDDllM7MjtVc2VyO0tBR0FOVU5BTDsyMDIzLTAxLTEyOzAzOjQ4OjQ5IMOWUztLYXTEsVPEsXbEsUdheldoaWxlLmZwcmc7Nzg5OA=="/>
+        <attribute name="edited" value="VXNlcjtLQUdBTlVOQUw7MjAyMy0wMS0xMzswNjowMzo0MiDDllM7MTsyNTky"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="i, sayi, j" type="Integer" array="False" size=""/>
+            <declare name="Tekrar" type="String" array="False" size=""/>
+            <assign variable="Tekrar" expression="&quot;E&quot;"/>
+            <while expression="tekrar == &quot;E&quot;">
+                <output expression="&quot;Sayi giriniz: &quot;" newline="True"/>
+                <input variable="sayi"/>
+                <assign variable="j" expression="0"/>
+                <for variable="i" start="2" end="sayi - 1" direction="inc" step="1">
+                    <if expression="sayi %i == 0">
+                        <then>
+                            <assign variable="j" expression="j + 1"/>
+                        </then>
+                        <else/>
+                    </if>
+                </for>
+                <if expression="j == 0">
+                    <then>
+                        <output expression="&quot;Say&#305; asald&#305;r!&quot;" newline="True"/>
+                    </then>
+                    <else>
+                        <output expression="&quot;Say&#305;&#305; asal de&#287;ildir.&quot;" newline="True"/>
+                    </else>
+                </if>
+                <output expression="&quot;Tekrardan de&#287;er girmek istiyor musunuz? (E veya H yaz&#305;n&#305;z.)&quot;" newline="True"/>
+                <input variable="Tekrar"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>
