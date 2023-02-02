@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\kullaniciAdiSifre\kullaniciAdiSifre\obj\Debug\kullaniciAdiSifre.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\kullaniciAdiSifre\kullaniciAdiSifre\obj\Debug\kullaniciAdiSifre.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\kullaniciAdiSifre\kullaniciAdiSifre\obj\Debug\kullaniciAdiSifre.Form1.resources
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\kullaniciAdiSifre\kullaniciAdiSifre\obj\Debug\kullaniciAdiSifre.Properties.Resources.resources
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\kullaniciAdiSifre\kullaniciAdiSifre\obj\Debug\kullaniciAdiSifre.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\kullaniciAdiSifre\kullaniciAdiSifre\obj\Debug\kullaniciAdiSifre.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\kullaniciAdiSifre\kullaniciAdiSifre\bin\Debug\kullaniciAdiSifre.exe.config
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\kullaniciAdiSifre\kullaniciAdiSifre\bin\Debug\kullaniciAdiSifre.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\kullaniciAdiSifre\kullaniciAdiSifre\bin\Debug\kullaniciAdiSifre.pdb
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\kullaniciAdiSifre\kullaniciAdiSifre\obj\Debug\kullaniciAdiSifre.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\01.02.2023\kullaniciAdiSifre\kullaniciAdiSifre\obj\Debug\kullaniciAdiSifre.pdb
