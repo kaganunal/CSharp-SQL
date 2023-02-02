@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\sayiToplayanveKüpünüGetiren\bin\Debug\sayiToplayanveKüpünüGetiren.exe.config
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\sayiToplayanveKüpünüGetiren\bin\Debug\sayiToplayanveKüpünüGetiren.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\sayiToplayanveKüpünüGetiren\bin\Debug\sayiToplayanveKüpünüGetiren.pdb
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\sayiToplayanveKüpünüGetiren\obj\Debug\sayiToplayanveKüpünüGetiren.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\sayiToplayanveKüpünüGetiren\obj\Debug\sayiToplayanveKüpünüGetiren.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\sayiToplayanveKüpünüGetiren\obj\Debug\sayiToplayanveKüpünüGetiren.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\sayiToplayanveKüpünüGetiren\obj\Debug\sayiToplayanveKüpünüGetiren.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\sayiToplayanveKüpünüGetiren\obj\Debug\sayiToplayanveKüpünüGetiren.pdb

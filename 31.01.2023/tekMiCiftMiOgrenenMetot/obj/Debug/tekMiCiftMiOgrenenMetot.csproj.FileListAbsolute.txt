@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\tekMiCiftMiOgrenenMetot\bin\Debug\tekMiCiftMiOgrenenMetot.exe.config
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\tekMiCiftMiOgrenenMetot\bin\Debug\tekMiCiftMiOgrenenMetot.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\tekMiCiftMiOgrenenMetot\bin\Debug\tekMiCiftMiOgrenenMetot.pdb
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\tekMiCiftMiOgrenenMetot\obj\Debug\tekMiCiftMiOgrenenMetot.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\tekMiCiftMiOgrenenMetot\obj\Debug\tekMiCiftMiOgrenenMetot.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\tekMiCiftMiOgrenenMetot\obj\Debug\tekMiCiftMiOgrenenMetot.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\tekMiCiftMiOgrenenMetot\obj\Debug\tekMiCiftMiOgrenenMetot.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\tekMiCiftMiOgrenenMetot\obj\Debug\tekMiCiftMiOgrenenMetot.pdb

@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\sinCosTanCotMetot\obj\Debug\sinCosTanCotMetot.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\sinCosTanCotMetot\obj\Debug\sinCosTanCotMetot.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\sinCosTanCotMetot\obj\Debug\sinCosTanCotMetot.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\sinCosTanCotMetot\bin\Debug\sinCosTanCotMetot.exe.config
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\sinCosTanCotMetot\bin\Debug\sinCosTanCotMetot.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\sinCosTanCotMetot\bin\Debug\sinCosTanCotMetot.pdb
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\sinCosTanCotMetot\obj\Debug\sinCosTanCotMetot.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\sinCosTanCotMetot\obj\Debug\sinCosTanCotMetot.pdb

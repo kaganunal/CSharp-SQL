@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\buyukSayiMetot\bin\Debug\buyukSayiMetot.exe.config
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\buyukSayiMetot\bin\Debug\buyukSayiMetot.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\buyukSayiMetot\bin\Debug\buyukSayiMetot.pdb
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\buyukSayiMetot\obj\Debug\buyukSayiMetot.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\buyukSayiMetot\obj\Debug\buyukSayiMetot.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\buyukSayiMetot\obj\Debug\buyukSayiMetot.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\buyukSayiMetot\obj\Debug\buyukSayiMetot.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\buyukSayiMetot\obj\Debug\buyukSayiMetot.pdb

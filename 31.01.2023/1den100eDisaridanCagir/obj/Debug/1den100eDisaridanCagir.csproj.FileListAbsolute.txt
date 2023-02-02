@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\1den100eDisaridanCagir\obj\Debug\1den100eDisaridanCagir.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\1den100eDisaridanCagir\obj\Debug\1den100eDisaridanCagir.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\1den100eDisaridanCagir\obj\Debug\1den100eDisaridanCagir.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\1den100eDisaridanCagir\bin\Debug\1den100eDisaridanCagir.exe.config
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\1den100eDisaridanCagir\bin\Debug\1den100eDisaridanCagir.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\1den100eDisaridanCagir\bin\Debug\1den100eDisaridanCagir.pdb
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\1den100eDisaridanCagir\obj\Debug\1den100eDisaridanCagir.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\31.01.2023\1den100eDisaridanCagir\obj\Debug\1den100eDisaridanCagir.pdb
