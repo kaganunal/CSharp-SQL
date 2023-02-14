@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\NotHesaplama\NotHesaplama\bin\Debug\NotHesaplama.exe.config
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\NotHesaplama\NotHesaplama\bin\Debug\NotHesaplama.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\NotHesaplama\NotHesaplama\bin\Debug\NotHesaplama.pdb
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\NotHesaplama\NotHesaplama\obj\Debug\NotHesaplama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\NotHesaplama\NotHesaplama\obj\Debug\NotHesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\NotHesaplama\NotHesaplama\obj\Debug\NotHesaplama.Form1.resources
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\NotHesaplama\NotHesaplama\obj\Debug\NotHesaplama.Form2.resources
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\NotHesaplama\NotHesaplama\obj\Debug\NotHesaplama.Properties.Resources.resources
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\NotHesaplama\NotHesaplama\obj\Debug\NotHesaplama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\NotHesaplama\NotHesaplama\obj\Debug\NotHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\NotHesaplama\NotHesaplama\obj\Debug\NotHesaplama.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\NotHesaplama\NotHesaplama\obj\Debug\NotHesaplama.pdb
