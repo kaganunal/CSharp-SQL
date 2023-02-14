@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\KullaniciAdiSifreHosgeldin\KullaniciAdiSifreHosgeldin\bin\Debug\KullaniciAdiSifreHosgeldin.exe.config
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\KullaniciAdiSifreHosgeldin\KullaniciAdiSifreHosgeldin\bin\Debug\KullaniciAdiSifreHosgeldin.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\KullaniciAdiSifreHosgeldin\KullaniciAdiSifreHosgeldin\bin\Debug\KullaniciAdiSifreHosgeldin.pdb
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\KullaniciAdiSifreHosgeldin\KullaniciAdiSifreHosgeldin\obj\Debug\KullaniciAdiSifreHosgeldin.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\KullaniciAdiSifreHosgeldin\KullaniciAdiSifreHosgeldin\obj\Debug\KullaniciAdiSifreHosgeldin.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\KullaniciAdiSifreHosgeldin\KullaniciAdiSifreHosgeldin\obj\Debug\KullaniciAdiSifreHosgeldin.Form1.resources
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\KullaniciAdiSifreHosgeldin\KullaniciAdiSifreHosgeldin\obj\Debug\KullaniciAdiSifreHosgeldin.Form2.resources
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\KullaniciAdiSifreHosgeldin\KullaniciAdiSifreHosgeldin\obj\Debug\KullaniciAdiSifreHosgeldin.Properties.Resources.resources
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\KullaniciAdiSifreHosgeldin\KullaniciAdiSifreHosgeldin\obj\Debug\KullaniciAdiSifreHosgeldin.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\KullaniciAdiSifreHosgeldin\KullaniciAdiSifreHosgeldin\obj\Debug\KullaniciAdiSifreHosgeldin.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\KullaniciAdiSifreHosgeldin\KullaniciAdiSifreHosgeldin\obj\Debug\KullaniciAdiSifreHosgeldin.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\KullaniciAdiSifreHosgeldin\KullaniciAdiSifreHosgeldin\obj\Debug\KullaniciAdiSifreHosgeldin.pdb
