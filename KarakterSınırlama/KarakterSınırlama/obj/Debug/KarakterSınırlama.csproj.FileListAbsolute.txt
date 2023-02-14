@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\KarakterSınırlama\KarakterSınırlama\bin\Debug\KarakterSınırlama.exe.config
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\KarakterSınırlama\KarakterSınırlama\bin\Debug\KarakterSınırlama.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\KarakterSınırlama\KarakterSınırlama\bin\Debug\KarakterSınırlama.pdb
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\KarakterSınırlama\KarakterSınırlama\obj\Debug\KarakterSınırlama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\KarakterSınırlama\KarakterSınırlama\obj\Debug\KarakterSınırlama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\KarakterSınırlama\KarakterSınırlama\obj\Debug\KarakterSınırlama.Form1.resources
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\KarakterSınırlama\KarakterSınırlama\obj\Debug\KarakterSınırlama.Properties.Resources.resources
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\KarakterSınırlama\KarakterSınırlama\obj\Debug\KarakterSınırlama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\KarakterSınırlama\KarakterSınırlama\obj\Debug\KarakterSınırlama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\KarakterSınırlama\KarakterSınırlama\obj\Debug\KarakterSınırlama.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\KarakterSınırlama\KarakterSınırlama\obj\Debug\KarakterSınırlama.pdb
