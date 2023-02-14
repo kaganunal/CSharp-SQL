@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\SifreZorlukDerecesi\SifreZorlukDerecesi\bin\Debug\SifreZorlukDerecesi.exe.config
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\SifreZorlukDerecesi\SifreZorlukDerecesi\bin\Debug\SifreZorlukDerecesi.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\SifreZorlukDerecesi\SifreZorlukDerecesi\bin\Debug\SifreZorlukDerecesi.pdb
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\SifreZorlukDerecesi\SifreZorlukDerecesi\obj\Debug\SifreZorlukDerecesi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\SifreZorlukDerecesi\SifreZorlukDerecesi\obj\Debug\SifreZorlukDerecesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\SifreZorlukDerecesi\SifreZorlukDerecesi\obj\Debug\SifreZorlukDerecesi.Form1.resources
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\SifreZorlukDerecesi\SifreZorlukDerecesi\obj\Debug\SifreZorlukDerecesi.Properties.Resources.resources
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\SifreZorlukDerecesi\SifreZorlukDerecesi\obj\Debug\SifreZorlukDerecesi.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\SifreZorlukDerecesi\SifreZorlukDerecesi\obj\Debug\SifreZorlukDerecesi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\SifreZorlukDerecesi\SifreZorlukDerecesi\obj\Debug\SifreZorlukDerecesi.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\SifreZorlukDerecesi\SifreZorlukDerecesi\obj\Debug\SifreZorlukDerecesi.pdb
