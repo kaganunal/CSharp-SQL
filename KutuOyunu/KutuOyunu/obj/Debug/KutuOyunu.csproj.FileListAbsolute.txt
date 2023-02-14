@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\KutuOyunu\KutuOyunu\bin\Debug\KutuOyunu.exe.config
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\KutuOyunu\KutuOyunu\bin\Debug\KutuOyunu.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\KutuOyunu\KutuOyunu\bin\Debug\KutuOyunu.pdb
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\KutuOyunu\KutuOyunu\obj\Debug\KutuOyunu.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\KutuOyunu\KutuOyunu\obj\Debug\KutuOyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\KutuOyunu\KutuOyunu\obj\Debug\KutuOyunu.Form1.resources
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\KutuOyunu\KutuOyunu\obj\Debug\KutuOyunu.Properties.Resources.resources
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\KutuOyunu\KutuOyunu\obj\Debug\KutuOyunu.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\KutuOyunu\KutuOyunu\obj\Debug\KutuOyunu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\KutuOyunu\KutuOyunu\obj\Debug\KutuOyunu.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\14.02.2023\KutuOyunu\KutuOyunu\obj\Debug\KutuOyunu.pdb
