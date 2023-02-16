@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Bilge Adam\Ödevler\Şifre Üretimi\SifreUretimiYapanProgram\SifreUretimiYapanProgram\bin\Debug\SifreUretimiYapanProgram.exe.config
+C:\Users\User\Desktop\Bilge Adam\Ödevler\Şifre Üretimi\SifreUretimiYapanProgram\SifreUretimiYapanProgram\bin\Debug\SifreUretimiYapanProgram.exe
+C:\Users\User\Desktop\Bilge Adam\Ödevler\Şifre Üretimi\SifreUretimiYapanProgram\SifreUretimiYapanProgram\bin\Debug\SifreUretimiYapanProgram.pdb
+C:\Users\User\Desktop\Bilge Adam\Ödevler\Şifre Üretimi\SifreUretimiYapanProgram\SifreUretimiYapanProgram\obj\Debug\SifreUretimiYapanProgram.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Bilge Adam\Ödevler\Şifre Üretimi\SifreUretimiYapanProgram\SifreUretimiYapanProgram\obj\Debug\SifreUretimiYapanProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Bilge Adam\Ödevler\Şifre Üretimi\SifreUretimiYapanProgram\SifreUretimiYapanProgram\obj\Debug\SifreUretimiYapanProgram.Form1.resources
+C:\Users\User\Desktop\Bilge Adam\Ödevler\Şifre Üretimi\SifreUretimiYapanProgram\SifreUretimiYapanProgram\obj\Debug\SifreUretimiYapanProgram.Properties.Resources.resources
+C:\Users\User\Desktop\Bilge Adam\Ödevler\Şifre Üretimi\SifreUretimiYapanProgram\SifreUretimiYapanProgram\obj\Debug\SifreUretimiYapanProgram.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Bilge Adam\Ödevler\Şifre Üretimi\SifreUretimiYapanProgram\SifreUretimiYapanProgram\obj\Debug\SifreUretimiYapanProgram.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Bilge Adam\Ödevler\Şifre Üretimi\SifreUretimiYapanProgram\SifreUretimiYapanProgram\obj\Debug\SifreUretimiYapanProgram.exe
+C:\Users\User\Desktop\Bilge Adam\Ödevler\Şifre Üretimi\SifreUretimiYapanProgram\SifreUretimiYapanProgram\obj\Debug\SifreUretimiYapanProgram.pdb
