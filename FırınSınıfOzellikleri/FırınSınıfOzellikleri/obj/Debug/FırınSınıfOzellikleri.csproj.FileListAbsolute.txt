@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Bilge Adam\Örnekler\15.02.2023\FırınSınıfOzellikleri\FırınSınıfOzellikleri\bin\Debug\FırınSınıfOzellikleri.exe.config
+C:\Users\User\Desktop\Bilge Adam\Örnekler\15.02.2023\FırınSınıfOzellikleri\FırınSınıfOzellikleri\bin\Debug\FırınSınıfOzellikleri.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\15.02.2023\FırınSınıfOzellikleri\FırınSınıfOzellikleri\bin\Debug\FırınSınıfOzellikleri.pdb
+C:\Users\User\Desktop\Bilge Adam\Örnekler\15.02.2023\FırınSınıfOzellikleri\FırınSınıfOzellikleri\obj\Debug\FırınSınıfOzellikleri.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\15.02.2023\FırınSınıfOzellikleri\FırınSınıfOzellikleri\obj\Debug\FırınSınıfOzellikleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\15.02.2023\FırınSınıfOzellikleri\FırınSınıfOzellikleri\obj\Debug\FırınSınıfOzellikleri.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\15.02.2023\FırınSınıfOzellikleri\FırınSınıfOzellikleri\obj\Debug\FırınSınıfOzellikleri.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\15.02.2023\FırınSınıfOzellikleri\FırınSınıfOzellikleri\obj\Debug\FırınSınıfOzellikleri.pdb
