@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Bilge Adam\Örnekler\15.02.2023\KisiselOzellikler2\KisiselOzellikler2\bin\Debug\KisiselOzellikler2.exe.config
+C:\Users\User\Desktop\Bilge Adam\Örnekler\15.02.2023\KisiselOzellikler2\KisiselOzellikler2\bin\Debug\KisiselOzellikler2.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\15.02.2023\KisiselOzellikler2\KisiselOzellikler2\bin\Debug\KisiselOzellikler2.pdb
+C:\Users\User\Desktop\Bilge Adam\Örnekler\15.02.2023\KisiselOzellikler2\KisiselOzellikler2\obj\Debug\KisiselOzellikler2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\15.02.2023\KisiselOzellikler2\KisiselOzellikler2\obj\Debug\KisiselOzellikler2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\15.02.2023\KisiselOzellikler2\KisiselOzellikler2\obj\Debug\KisiselOzellikler2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Bilge Adam\Örnekler\15.02.2023\KisiselOzellikler2\KisiselOzellikler2\obj\Debug\KisiselOzellikler2.exe
+C:\Users\User\Desktop\Bilge Adam\Örnekler\15.02.2023\KisiselOzellikler2\KisiselOzellikler2\obj\Debug\KisiselOzellikler2.pdb
