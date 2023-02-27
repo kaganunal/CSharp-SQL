@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Bilge Adam\Projeler\OOPHamburgerci\OOPHamburgerci\bin\Debug\OOPHamburgerci.exe.config
+C:\Users\User\Desktop\Bilge Adam\Projeler\OOPHamburgerci\OOPHamburgerci\bin\Debug\OOPHamburgerci.exe
+C:\Users\User\Desktop\Bilge Adam\Projeler\OOPHamburgerci\OOPHamburgerci\bin\Debug\OOPHamburgerci.pdb
+C:\Users\User\Desktop\Bilge Adam\Projeler\OOPHamburgerci\OOPHamburgerci\obj\Debug\OOPHamburgerci.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Bilge Adam\Projeler\OOPHamburgerci\OOPHamburgerci\obj\Debug\OOPHamburgerci.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Bilge Adam\Projeler\OOPHamburgerci\OOPHamburgerci\obj\Debug\OOPHamburgerci.EkstraMalzemeEkle.resources
+C:\Users\User\Desktop\Bilge Adam\Projeler\OOPHamburgerci\OOPHamburgerci\obj\Debug\OOPHamburgerci.MenuEkle.resources
+C:\Users\User\Desktop\Bilge Adam\Projeler\OOPHamburgerci\OOPHamburgerci\obj\Debug\OOPHamburgerci.Properties.Resources.resources
+C:\Users\User\Desktop\Bilge Adam\Projeler\OOPHamburgerci\OOPHamburgerci\obj\Debug\OOPHamburgerci.SiparisOlustur.resources
+C:\Users\User\Desktop\Bilge Adam\Projeler\OOPHamburgerci\OOPHamburgerci\obj\Debug\OOPHamburgerci.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Bilge Adam\Projeler\OOPHamburgerci\OOPHamburgerci\obj\Debug\OOPHamburgerci.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Bilge Adam\Projeler\OOPHamburgerci\OOPHamburgerci\obj\Debug\OOPHamburgerci.exe
+C:\Users\User\Desktop\Bilge Adam\Projeler\OOPHamburgerci\OOPHamburgerci\obj\Debug\OOPHamburgerci.pdb
+C:\Users\User\Desktop\Bilge Adam\Projeler\OOPHamburgerci\OOPHamburgerci\obj\Debug\OOPHamburgerci.AnaForm.resources
+C:\Users\User\Desktop\Bilge Adam\Projeler\OOPHamburgerci\OOPHamburgerci\obj\Debug\OOPHamburgerci.SiparisBilgileri.resources
