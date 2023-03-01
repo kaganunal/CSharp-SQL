@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Bilge Adam\Projeler\TelefonUygulamasi\TelefonUygulamasi\bin\Debug\TelefonUygulamasi.exe.config
+C:\Users\User\Desktop\Bilge Adam\Projeler\TelefonUygulamasi\TelefonUygulamasi\bin\Debug\TelefonUygulamasi.exe
+C:\Users\User\Desktop\Bilge Adam\Projeler\TelefonUygulamasi\TelefonUygulamasi\bin\Debug\TelefonUygulamasi.pdb
+C:\Users\User\Desktop\Bilge Adam\Projeler\TelefonUygulamasi\TelefonUygulamasi\obj\Debug\TelefonUygulamasi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Bilge Adam\Projeler\TelefonUygulamasi\TelefonUygulamasi\obj\Debug\TelefonUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Bilge Adam\Projeler\TelefonUygulamasi\TelefonUygulamasi\obj\Debug\TelefonUygulamasi.AnaForm.resources
+C:\Users\User\Desktop\Bilge Adam\Projeler\TelefonUygulamasi\TelefonUygulamasi\obj\Debug\TelefonUygulamasi.TelefonDuzenle.resources
+C:\Users\User\Desktop\Bilge Adam\Projeler\TelefonUygulamasi\TelefonUygulamasi\obj\Debug\TelefonUygulamasi.TelefonListele.resources
+C:\Users\User\Desktop\Bilge Adam\Projeler\TelefonUygulamasi\TelefonUygulamasi\obj\Debug\TelefonUygulamasi.Properties.Resources.resources
+C:\Users\User\Desktop\Bilge Adam\Projeler\TelefonUygulamasi\TelefonUygulamasi\obj\Debug\TelefonUygulamasi.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Bilge Adam\Projeler\TelefonUygulamasi\TelefonUygulamasi\obj\Debug\TelefonUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Bilge Adam\Projeler\TelefonUygulamasi\TelefonUygulamasi\obj\Debug\TelefonUygulamasi.exe
+C:\Users\User\Desktop\Bilge Adam\Projeler\TelefonUygulamasi\TelefonUygulamasi\obj\Debug\TelefonUygulamasi.pdb
